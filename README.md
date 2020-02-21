@@ -1,8 +1,8 @@
 # Print Number and String using PHP
 This program prints the number from 1 to given number, but for below cases, text will be printed instead of string
-multiples of 3, "Linio"
-multiples of 5, "It"
-multiples of 3 & 5, "Linianos"
+1. multiples of 3, "Linio"
+2. multiples of 5, "It"
+3. multiples of 3 & 5, "Linianos"
 
 # Prerequisite:
 1. PHP 7 and above
